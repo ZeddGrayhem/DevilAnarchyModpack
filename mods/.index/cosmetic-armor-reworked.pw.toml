@@ -1,0 +1,14 @@
+name = "Cosmetic Armor Reworked"
+filename = "CosmeticArmorReworked-1.12.2-v5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f2a4bf511098c03db8f66a08ffd8d37e048081cf"
+
+[update]
+[update.curseforge]
+file-id = 2935697
+project-id = 237307

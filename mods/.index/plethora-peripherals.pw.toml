@@ -1,0 +1,14 @@
+name = "Plethora Peripherals"
+filename = "plethora-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2e558d293ac97dcc26de82b0c5c9375ec1f6aa9c"
+
+[update]
+[update.curseforge]
+file-id = 2733249
+project-id = 248425

@@ -1,0 +1,14 @@
+name = "Kinetic Anti-Cheat"
+filename = "kinetic_anti-cheat-12.2.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a93a5ec2f18437b5c1c90dd6935a118b9dedb294"
+
+[update]
+[update.curseforge]
+file-id = 2834645
+project-id = 300550
