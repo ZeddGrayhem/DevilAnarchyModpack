@@ -106,7 +106,11 @@ ic2hydrogen                                       (ic2:hydrogen)                
 ic2oxygen                                         (ic2:oxygen)                                                                     = Oxygen
 ic2heavy_water                                    (ic2:heavy_water)                                                                = Heavy Water
 ic2milk                                           (ic2:milk)                                                                       = Milk
-springwater                                       (byg:springwater)                                                                = Springwater
+sand                                              (biomesoplenty:sand)                                                             = Quicksand
+honey                                             (biomesoplenty:honey)                                                            = Honey
+blood                                             (biomesoplenty:blood)                                                            = Blood
+poison                                            (biomesoplenty:poison)                                                           = Poison
+hot_spring_water                                  (biomesoplenty:hot_spring_water)                                                 = Hot Spring Water
 molten_blood_infused_iron                         (bloodarsenal:bloodarsenal.molten_blood_infused_iron)                            = Molten Blood Infused Iron
 bio.ethanol                                       (forestry:fluid.bio.ethanol)                                                     = Ethanol
 biomass                                           (forestry:fluid.biomass)                                                         = Biomass
@@ -155,7 +159,6 @@ obsidian                                          (tconstruct:molten_obsidian)  
 clay                                              (tconstruct:molten_clay)                                                         = Molten Clay
 dirt                                              (tconstruct:molten_dirt)                                                         = Liquid Dirt
 emerald                                           (tconstruct:molten_emerald)                                                      = Molten Emerald
-blood                                             (tconstruct:blood)                                                               = Blood
 blueslime                                         (tconstruct:blueslime)                                                           = Liquid Blue Slime
 purpleslime                                       (tconstruct:purpleslime)                                                         = Liquid Purple Slime
 lifeessence                                       (bloodmagic:life_essence)                                                        = Life Essence

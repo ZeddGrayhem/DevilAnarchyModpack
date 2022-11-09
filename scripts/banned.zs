@@ -18,7 +18,15 @@ val bannedItems = [
     <mekanism:machineblock:13>,
     <mekanism:robit>,
     <warpbook:teleporter>,
-    <appliedenergistics2:material:32>
+    <appliedenergistics2:material:32>,
+    <aroma1997sdimension:portalframe>,
+    <aroma1997sdimension:miningmultitool>,
+    <aroma1997sdimension:dimensionchanger>,
+    <xreliquary:void_tear>,
+    <xreliquary:rod_of_lyssa>,
+    <ic2:te:82>,
+    <mekanism:anchorupgrade>,
+
 ] as IItemStack[];
 
 
